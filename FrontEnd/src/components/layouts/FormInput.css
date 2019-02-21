@@ -1,0 +1,28 @@
+.input-form-group{
+    width: 100%;
+}
+
+.text-help{
+    color: #dc3545;
+}
+
+.input-group-prepend {
+    width: 40px;
+}
+.asterisk-required{
+    color:#dc3545
+}
+.loginIcon{
+    font-size: 30px;
+}
+.iconSpan{
+    background-color: transparent;
+    margin-left: -15px;
+    border: none;
+    margin-top: 10px;
+
+}
+input[type=text],input[type=password]{
+    margin-top: -10px;
+    width: 400px;
+}

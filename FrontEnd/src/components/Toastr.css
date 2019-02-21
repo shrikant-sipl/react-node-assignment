@@ -1,0 +1,8 @@
+.toastr{
+    overflow: inherit !important;
+    height: 100px;
+}
+.close-toastr{
+    overflow: inherit !important;
+    margin: -30px 10px 0px 0px;
+}

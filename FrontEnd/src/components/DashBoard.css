@@ -1,0 +1,9 @@
+.search-container{
+width: 300px;
+height: 100px;
+float:right;
+margin: 100px 135px 0px 0px;
+}
+button{
+    width: 110px;
+}
